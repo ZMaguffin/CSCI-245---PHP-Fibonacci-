@@ -7,8 +7,11 @@ In mathematics, the Fibonacci numbers or Fibonacci sequence are the numbers in t
  
 By definition, the first two numbers in the Fibonacci sequence are 1 and 1, and each subsequent number is the sum of the previous two.
 In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation
+ 
  Fn = F(n-1) + F(n-2)
+
 with seed values
+  
   F1 = 1 and F2 = 2
  
 
